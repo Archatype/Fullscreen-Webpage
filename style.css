@@ -192,18 +192,4 @@ url('http://i.imgur.com/rtbUtTD.jpg') no-repeat center center;
   background-size: cover;
 }
 
-
-
-#about {
-  background-image: url('http://i.imgur.com/bEH67mc.jpg');
-  background-size: cover;
-  height: 400px;
-  width: 1350px;
-  text-align: center;
-  color: white;
-  padding: 300px;
-  font-size: 4em;
-  overflow: hidden;
-  }
-
 }
