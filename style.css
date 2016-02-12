@@ -11,8 +11,6 @@ html, body {
  height: 100%;
 }
 
-
-
 h1 {
   color: white;
   font-family: 'Crimson Text', sans-serif;
@@ -34,7 +32,6 @@ h1 {
   align-items: center;
   -webkit-justify-content: center;
   justify-content: center;
-
 
 }
 nav {
@@ -126,17 +123,12 @@ nav {
   padding: 0;
 }
 
-
-
-
-
 .main-screen {
   z-index: 98;
   padding: 0;
   height: 100%;
   width: 100%;
 }
-
 
 .slideshow{
   display: block;
